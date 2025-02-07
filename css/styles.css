@@ -11,8 +11,8 @@ https://www.tooplate.com/view/2133-moso-interior
 -----------------------------------------*/
 :root {
   --white-color:                  #ffffff;
-  --primary-color:                #854e2f;
-  --secondary-color:              #593125;
+  --primary-color:                #6b401c;
+  --secondary-color:              #47251b;
   --section-bg-color:             #f9f9f9;
   --site-footer-bg-color:         #36363e;
   --custom-btn-bg-color:          #012e19;
@@ -883,7 +883,7 @@ strong {
   border-color: var(--secondary-color);
 }
 
-.custom-form button[type="submit"] {
+.custom-form button[type="button"] {
   background: var(--secondary-color);
   border: none;
   color: var(--white-color);
@@ -893,8 +893,8 @@ strong {
   margin-bottom: 0;
 }
 
-.custom-form button[type="submit"]:hover,
-.custom-form button[type="submit"]:focus {
+.custom-form button[type="button"]:hover,
+.custom-form button[type="button"]:focus {
   background: var(--primary-color);
   border-color: transparent;
 }
