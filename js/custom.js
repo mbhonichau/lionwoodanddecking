@@ -6,12 +6,13 @@
     // HERO SLIDE
     $('.hero-slide').backstretch([
       "images/slideshow/lionwoodanddecking_c5348b20.jpg",
-      "images/slideshow/lionwoodanddecking_57aaa653.jpg", 
-      "images/slideshow/lionwoodanddecking_8fdac049.jpg",
-      "images/slideshow/lionwoodanddecking_58aba50a.jpg",
-      "images/slideshow/lionwoodanddecking_c56e29c5.jpg"
+      "images/slideshow/lionwoodanddecking_1713205565261.jpg",
+      "images/slideshow/lionwoodanddecking_cef29a80.jpg",
+      "images/slideshow/lionwoodanddecking_edaf75df.jpg"
       
-    ],  {duration: 200, fade: 750});
+      
+      
+    ],  {duration: 2000, fade: 750});
 
     // REVIEWS CAROUSEL
     $('.reviews-carousel').owlCarousel({
