@@ -5,10 +5,10 @@
 
     // HERO SLIDE
     $('.hero-slide').backstretch([
-      "images/slideshow/lionwoodanddecking_c5348b20.jpg",
-      "images/slideshow/lionwoodanddecking_1713205565261.jpg",
-      "images/slideshow/lionwoodanddecking_cef29a80.jpg",
-      "images/slideshow/lionwoodanddecking_edaf75df.jpg"
+      "images/slideshow/decking_on_stairs__around_pool_.jpg",
+      "images/slideshow/composite_wood_decking_and_flooring.jpg",
+      "images/slideshow/composite_decking_around_swimming_pool.jpg",
+      "images/slideshow/composite_decking_and_flooring_near_garden_background.jpg"
       
       
       
