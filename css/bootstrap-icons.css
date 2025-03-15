@@ -1109,8 +1109,8 @@ url("../fonts/bootstrap-icons.woff?30af91bf14e37666a085fb8a161ff36d") format("wo
 .bi-shield::before { content: "\f53f"; }
 .bi-shift-fill::before { content: "\f540"; }
 .bi-shift::before { content: "\f541"; }
-.bi-shop-window::before { content: "\f542"; }
-.bi-shop::before { content: "\f543"; }
+.bi-decking-window::before { content: "\f542"; }
+.bi-decking::before { content: "\f543"; }
 .bi-shuffle::before { content: "\f544"; }
 .bi-signpost-2-fill::before { content: "\f545"; }
 .bi-signpost-2::before { content: "\f546"; }

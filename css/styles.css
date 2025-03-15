@@ -184,7 +184,7 @@ strong {
   background: var(--border-color);
 }
 
-.shop-detail-custom-block {
+.decking-detail-custom-block {
   background: transparent;
   border-top: 0;
   border-radius: 0;
@@ -593,7 +593,7 @@ strong {
   FEATURED              
 -----------------------------------------*/
 .featured-section {
-  background-image: url('../images/shop/IMG-009.jpg');
+  background-image: url('../images/decking/IMG-009.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -723,69 +723,69 @@ strong {
 
 
 /*---------------------------------------
-  SHOP              
+  decking              
 -----------------------------------------*/
-.shop-section {
+.decking-section {
   background: var(--white-color);
 }
 
-.shop-listing-page .shop-section {
+.decking-listing-page .decking-section {
   padding-bottom: 0;
 }
 
-.shop-thumb {
+.decking-thumb {
   margin-bottom: 24px;
 }
 
-.shop-image-wrap {
+.decking-image-wrap {
   position: relative;
 }
 
-.shop-image-wrap:hover .shop-btn-wrap {
+.decking-image-wrap:hover .decking-btn-wrap {
   opacity: 1;
 }
 
-.shop-icons-wrap {
+.decking-icons-wrap {
   position: absolute;
   top: 0;
   right: 0;
   margin: 20px;
 }
 
-.shop-icons {
+.decking-icons {
   background: var(--white-color);
   border-radius: var(--border-radius-small);
   padding: 20px 15px;
 }
 
-.shop-icon {
+.decking-icon {
   line-height: normal;
   margin-bottom: 10px;
 }
 
-.shop-icon:last-child {
+.decking-icon:last-child {
   margin-bottom: 0;
 }
 
-.shop-pricing-text {
+.decking-pricing-text {
   color: var(--secondary-color);
 }
 
-.shop-condition-text {
+.decking-condition-text {
   color: var(--custom-btn-bg-color);
 }
 
-.shop-image {
+.decking-image {
   display: block;
   border-radius: var(--border-radius-medium);
 }
 
-.shop-body {
+.decking-body {
   padding: 20px;
   padding-bottom: 0;
 }
 
-.shop-btn-wrap {
+.decking-btn-wrap {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -794,7 +794,7 @@ strong {
   transition: all 0.5s;
 }
 
-.shop-btn {
+.decking-btn {
   background: var(--primary-color);
   font-size: var(--copyright-font-size);
   width: 100px;
@@ -802,24 +802,24 @@ strong {
   text-transform: uppercase;
 }
 
-.shop-btn:hover {
+.decking-btn:hover {
   border-color: transparent;
   background: var(--secondary-color);
   color: var(--white-color);
 }
 
-.shop-detail-bar {
+.decking-detail-bar {
   padding: 20px;
 }
 
-.shop-listing-page .navbar-nav .nav-link.active,
-.shop-detail-page .navbar-nav .nav-link.active {
+.decking-listing-page .navbar-nav .nav-link.active,
+.decking-detail-page .navbar-nav .nav-link.active {
   background: transparent;
   color: var(--p-color);
 }
 
-.shop-listing-page .navbar-nav .nav-link.active:hover,
-.shop-detail-page .navbar-nav .nav-link.active:hover {
+.decking-listing-page .navbar-nav .nav-link.active:hover,
+.decking-detail-page .navbar-nav .nav-link.active:hover {
   background: var(--primary-color);
   color: var(--white-color);
 }
